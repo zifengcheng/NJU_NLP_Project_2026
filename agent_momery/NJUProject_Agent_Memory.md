@@ -16,14 +16,14 @@
 - 实现基本的记忆管理机制（更新 / 冲突 / 遗忘，三选一即可）
 - 在评测集上跑通并得到可量化的结果
 
-### 2.2 必读文献（精选 3–4 篇）
+### 2.2 必读文献（精选 4 篇）
 
 |论文|关注点|
 |---|---|
-|**Generative Agents** (Park et al., UIST 2023)|Recency × Importance × Relevance 三因子检索、Reflection|
-|**MemoryBank** (Zhong et al., AAAI 2024)|基于 Ebbinghaus 遗忘曲线的记忆动力学|
-|**Mem0** (2025)|记忆提取 → 冲突检测 → 更新的工程化流程|
-|**LoCoMo** (Maharana et al., ACL 2024)|长期对话记忆评测基准（本次评测数据来源）|
+|**Generative Agents: Interactive Simulacra of Human Behavior** (Park et al., UIST 2023)|Recency × Importance × Relevance 三因子检索、Reflection|
+|**MemoryBank: Enhancing Large Language Models with Long-Term Memory** (Zhong et al., AAAI 2024)|基于 Ebbinghaus 遗忘曲线的记忆动力学|
+|**Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory** (Chhikara et al., ECAI 2025)|记忆提取 → 冲突检测 → 更新的工程化流程|
+|**Evaluating Very Long-Term Conversational Memory of LLM Agents** (Maharana et al., ACL 2024)|长期对话记忆评测基准（本次评测数据来源）|
 
 开题报告中需简要说明：你的方案参考/改进了哪篇工作的哪些思路。
 
